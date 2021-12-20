@@ -31,4 +31,4 @@ jobs:
       - name: Tag version and create GitHub release
         run: lerna version --create-release github --conventional-commits --loglevel silly --yes
         env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
