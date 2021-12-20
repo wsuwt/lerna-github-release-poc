@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/wsuwt/lerna-github-release-poc/compare/a@1.2.0...a@1.3.0) (2021-12-20)
+
+
+### Features
+
+* awesome 4th feature ([c9bc96b](https://github.com/wsuwt/lerna-github-release-poc/commit/c9bc96bbd542659a67dd80d9ccf79577e04c5e55))
+
+
+
+
+
 # [1.2.0](https://github.com/wsuwt/lerna-github-release-poc/compare/a@1.1.0...a@1.2.0) (2021-12-20)
 
 
