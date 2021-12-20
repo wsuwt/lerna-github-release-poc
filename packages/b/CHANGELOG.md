@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/wsuwt/lerna-github-release-poc/compare/b@1.1.0...b@1.1.1) (2021-12-20)
+
+
+### Bug Fixes
+
+* memory leak bug ([c4f1959](https://github.com/wsuwt/lerna-github-release-poc/commit/c4f195916b0c5a8cd744ec0443a4a086b247f118))
+
+
+
+
+
 # 1.1.0 (2021-12-20)
 
 
