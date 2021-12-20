@@ -7,3 +7,4 @@ console.log('a')
 
 // fix: bugs and bees
 // fix: baz foo baz
+// fix: John Doe
