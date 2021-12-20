@@ -27,4 +27,8 @@ jobs:
 
       - run: npm ci --ignore-scripts --audit=false --fund=false
 
-      - run: lerna version --create-release github --conventional-commits --loglevel silly --yes
+      
+      - name: Hello world
+        run: lerna version --create-release github --conventional-commits --loglevel silly --yes
+        env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
