@@ -27,4 +27,4 @@ jobs:
 
       - run: npm ci --ignore-scripts --audit=false --fund=false
       - run: lerna changed
-      - run: lerna version --conventional-commits --create-release github --yes
+      - run: lerna version --conventional-commits --create-release='github' --loglevel='silly' --yes
