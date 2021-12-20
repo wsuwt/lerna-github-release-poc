@@ -6,3 +6,4 @@ console.log('a')
 // feat: awesome 4th feature
 
 // fix: bugs and bees
+// fix: baz foo baz
