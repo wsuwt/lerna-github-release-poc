@@ -28,7 +28,7 @@ jobs:
       - run: npm ci --ignore-scripts --audit=false --fund=false
 
       
-      - name: Hello world
+      - name: Tag version and create GitHub release
         run: lerna version --create-release github --conventional-commits --loglevel silly --yes
         env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
