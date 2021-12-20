@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/wsuwt/lerna-github-release-poc/compare/a@1.3.0...a@1.3.1) (2021-12-20)
+
+
+### Bug Fixes
+
+* baz foo baz ([27f0390](https://github.com/wsuwt/lerna-github-release-poc/commit/27f0390c463e33b62d9cea5859170d5bf59c893b))
+* bugs and bees ([ea3595d](https://github.com/wsuwt/lerna-github-release-poc/commit/ea3595d85853efb64d56466947a540b404b4dde8))
+* John Doe ([cd61543](https://github.com/wsuwt/lerna-github-release-poc/commit/cd615439e3f38bdd2252590a365c0d8853950012))
+
+
+
+
+
 # [1.3.0](https://github.com/wsuwt/lerna-github-release-poc/compare/a@1.2.0...a@1.3.0) (2021-12-20)
 
 
